@@ -1,7 +1,7 @@
-### Hi there I'm Joe 👋
+### Hi there, my name is Joe Kinch 👋
 
-I'm a front-end developer specializing in modern and bespoke websites. I've been developing for over 6 years and am comfortable with a variety of languages.
+I describe myself as the creative multi tool for your business.
 
-My foundations began with HTML / PHP, CSS and then vanilla Javascript - I then naturally began to learn parts of jQuery as that was widely used at the time. Eventually I started to dabble in advanced frameworks, learning Vue & Nuxt before now making the step into React & Next.
+My day to work is in the production of Radio, Podcasts and Social Media but before I got into all of that I wanted to be a web developer. 
 
-I mainly work within projects however I sometimes post lightweight utlities or tricks I find useful and wish to help others out with too!
+The bug is very much still there and I try to patch it every now and then so if you fancy forking me for something I will give it a go.
